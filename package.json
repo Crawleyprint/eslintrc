@@ -1,0 +1,24 @@
+{
+  "name": "eslintrc",
+  "version": "0.0.1",
+  "description": "ESLint configuration",
+  "main": "eslintrc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crawleyprint/eslintrc.git"
+  },
+  "keywords": [
+    "eslint",
+    "crawleyprint",
+    "configuration"
+  ],
+  "author": "Mladen Stepanić",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Crawleyprint/eslintrc/issues"
+  },
+  "homepage": "https://github.com/Crawleyprint/eslintrc#readme"
+}
